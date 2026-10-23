@@ -242,6 +242,7 @@ Results obtained by running `python main.py` on the included `students.csv` (25 
 **Pass/fail consistency:** The rule "at least 40 in every subject" is applied uniformly with `np.all(scores >= 40, axis=1)`. Siddharth Rao (S015) has Python = 49 and is correctly marked Pass. There is no inconsistency between S005 and S015 in the current dataset.
 
 Automated tests (`python -m unittest test_functions.py -v`) cover boundary cases (39 vs 40), grade cut-offs, totals/averages, validation, and ranking. All 25 tests pass.
+<img width="394" height="569" alt="image" src="https://github.com/user-attachments/assets/f9298643-6729-4c2d-965f-27d7d667eec7" />
 
 ---
 
@@ -317,3 +318,6 @@ Repository URL: `https://github.com/[your-username]/student-performance-analytic
 ---
 
 **End of Project Documentation**
+<img width="301" height="568" alt="image" src="https://github.com/user-attachments/assets/1de06928-ceda-42c3-b014-a7ba77398154" />
+![Uploading image.png…]()
+
